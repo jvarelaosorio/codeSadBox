@@ -1,0 +1,32 @@
+{
+  "devDependencies": {
+    "typescript": "~2.5.3",
+    "tslint": "~5.9.1",
+    "ts-node": "~4.1.0",
+    "protractor": "~5.1.2",
+    "jasmine-spec-reporter": "~4.2.1",
+    "jasmine-core": "~2.8.0",
+    "codelyzer": "^4.0.1",
+    "@types/node": "~6.0.60",
+    "@types/jasminewd2": "~2.0.2",
+    "@types/jasmine": "~2.8.3",
+    "@types/core-js": "0.9.46",
+    "@angular/language-service": "^5.2.0",
+    "@angular/compiler-cli": "^5.2.0",
+    "@angular/cli": "1.6.6"
+  },
+  "dependencies": {
+    "zone.js": "0.10.2",
+    "rxjs": "6.5.3",
+    "core-js": "3.6.0",
+    "@angular/router": "8.2.14",
+    "@angular/platform-browser-dynamic": "8.2.14",
+    "@angular/platform-browser": "8.2.14",
+    "@angular/http": "6.0.9",
+    "@angular/forms": "8.2.14",
+    "@angular/core": "8.2.14",
+    "@angular/compiler": "8.2.14",
+    "@angular/common": "8.2.14",
+    "@angular/animations": "8.2.14"
+  }
+}
